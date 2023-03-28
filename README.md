@@ -1,6 +1,6 @@
 # Sticker Generator
 
- Projeto desenvolvido durante a Imersão Java Alura 2023, trata-se de uma aplicação que gera stickers para WhatsApp..
+ Projeto desenvolvido durante a Imersão Java Alura 2023, trata-se de uma aplicação que gera stickers para WhatsApp.
 
 * Utilizando o projeto <a href="https://github.com/ViniciusMiguell/IMDB-Ranking">IMDB Ranking</a> como base para consumir as informações dos filmes e gerar stickers para o WhatsApp.
 * Também é possível criar stickers personalizados inserindo a URL de uma imagem e o texto a ser aplicado ao sticker.
